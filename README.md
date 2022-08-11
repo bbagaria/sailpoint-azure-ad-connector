@@ -66,7 +66,3 @@ And add the schema for the `application_role` object.
     </AttributeDefinition>
 </Schema>
 ~~~
-
-## Support
-
-Ask [Arie Timmerman](https://www.linkedin.com/in/arie/) from [a11n](https://www.a11n.nl)
